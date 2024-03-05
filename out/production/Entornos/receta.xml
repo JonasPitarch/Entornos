@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<receta>
+    <nombre>Paella Valenciana </nombre>
+    <ingredientes>
+        <nombre>Arroz</nombre>
+        <cantidad>2 Tazas</cantidad>
+    </ingredientes>
+    <ingredientes>
+        <nombre> Pollo</nombre>
+        <cantidad>250 gramos</cantidad>
+    </ingredientes>
+    <ingredientes>
+        <nombre>Azafrán</nombre>
+        <cantidad>Al gusto</nombre>
+    </ingredientes>
+    <prep>
+        <paso1> Primero sofries la carne en la paella</paso1>
+        <ps2>Una vez sofrita la carne colocamos a preparar las verduras</ps2>
+        <ps3>Ponemos agua a la paella y esperamos a que empiece a hervier el agua</ps3>
+        <ps4>Una vez el agua hirviendo echamos el arroz y esperamos a que se cocine</ps4>
+        <ps5>Sirve caliente y disfruta de tu paella!</ps5>
+    </prep>
+</receta>

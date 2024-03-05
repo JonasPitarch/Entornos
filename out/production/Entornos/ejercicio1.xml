@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cine>
+    <pelicula>
+        <cat>Ficcion</cat>
+        <titulo>Spiderman Homecoming</titulo>
+            <idioma>Inglés</idioma>
+        <director>Jon Watts</director>
+        <estreno>2017</estreno>
+        <reparto>Tom Holland , Zendaya , Marisa Tomei , Robert Downei JR</reparto>
+    </pelicula>
+</cine>

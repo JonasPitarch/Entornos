@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<acer>
+    <nom>Arce Menor</nom>
+    <veg>Caducifolio</veg>
+    <formyest>Copa Esferica. Tronco principal recto con bifurcaciones. Remaje colgante</formyest>
+    <color>Haz verde brillante, envés de verde blanquezino</color>
+    <heladas>Heladas fuertes (hasta -15ºC)</heladas>
+</acer>
+
+<olea>
+    <nom>Olivo</nom>
+    <veg>Perenne</veg>
+    <alt>De 8 a 15 metros</alt>
+    <formyest>Copa irregular. Tronco principal irregular con difurcaciones </formyest>
+</olea>
+
+<ramaje>
+    <color>Haz verde oscuro, envés de verde plateado</color>
+    <heladas>Heladas Medias (hasta -10ºC)</heladas>
+</ramaje>
+<platanus>
+    <nom>Platano</nom>
+    <veg>Caducifolio</veg>
+    <alt>De 20 a 25 metros</alt>
+    <formyest>Copa ovoidal. Tronco principal recto. Ramaje expandido</formyest>
+    <color>Haz verde medio , enves de verde claro</color>
+    <color2>Orce</color2>
+    <heladas>Heladas fuertes(hasta -20ºC)</heladas>

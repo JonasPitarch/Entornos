@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cd>CD's en oferta</cd>
+    <cd1>
+        <titulo>Still goes the blue</titulo>
+        <artista>Gary Moore</artista>
+        <pais>UK</pais>
+        <comp>Virgin Records</comp>
+        <preu>10.20€</preu>
+        <añ>1990</añ>
+    </cd1>
+    <cd2>
+        <titulo>One night only</titulo>
+        <artista>Bee Gees</artista>
+        <pais>UK</pais>
+        <comp>Polydor</comp>
+        <preu>10.90€</preu>
+        <añ>1998</añ>
+    </cd2>
+    <cd3>
+        <titulo>When a man loves a woman</titulo>
+        <artista>Percy Sledge</artista>
+        <pais>USA</pais>
+        <comp>Atlantic</comp>
+        <preu>8.70€</preu>
+        <añ>1987</añ>
+    </cd3>
+    </cd4>
+        <titulo>Big Willie Style</titulo>
+        <artista>Will Smith</artista>
+        <pais>USA</pais>
+        <comp>Columbia</comp>
+        <preu>9.90€</preu>
+        <añ>1997</añ>
+    </cd4>
+    <cd5>
+        <titulo>La Cancion de Juan perro</titulo>
+        <artista>Radio Futura</artista>
+        <pais>España</pais>
+        <comp>Sony Music-Ariola</comp>
+        <preu>9.90€</preu>
+        <añ>1987</añ>
+    </cd5>
+    <cd6>
+        <titulo>The dock of the bay</titulo>
+        <artista>Otis Redding</artista>
+        <pais>USA</pais>
+        <comp>Atlantic</comp>
+        <preu>7.90€</preu>
+        <añ>1987</añ>
+    </cd6>
+
